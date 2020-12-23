@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.App-header {
+  background-color: #282c34;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-content {
+  padding: 20px;
+  width: 50%;
+  margin: 0 auto;
+  justify-content: center;
+}
+
+.Input-form {
+  padding: 5px;
+}
+
+.App-link {
+  color: #61dafb;
+}
